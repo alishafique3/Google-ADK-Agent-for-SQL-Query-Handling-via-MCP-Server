@@ -1,1 +1,1 @@
-# Google ADK Powered SQL Query Handler with MCP Server
+# Google ADK Agent for SQL Query Handling via MCP Server
